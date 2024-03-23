@@ -10,3 +10,11 @@
     * Have a look at #3 UMN Robotics RI3D Under the frame intake. It looks like they have used some larger tires to get them a bit more clearance over the note. Also, their small intake roller looks to be contacting the note **above** the mid-line of the note. Still works like gangbusters.
 ![Under the frame intake](imgs/under-the-frame-intake.png)
 
+## FRC 2024 videos showing turret shooters
+* [The Pink Team FRC 233 - 2024 Reveal Video](https://www.youtube.com/watch?v=9Ea0du3LMJg)
+* [FRC 2024 Robot Shooter Turret Testing #FRC3255 - YouTube](https://www.youtube.com/shorts/y1pKOkQFz2k)
+* [Ri3D 2024 | turret prototype for Robots Done Quick (RDQ)](https://www.youtube.com/shorts/90EWERjuAJA)
+* [FRC 2024 Shooter Turret Test #FRC3255 - YouTube](https://www.youtube.com/shorts/wn7qfmoKAb4)
+* [FRC 2024 Shooter Turret Motion #FRC3255 - YouTube](https://www.youtube.com/shorts/6OCutGedJpY)
+* [FRC 2024 Turret tracking Test! #FRC3255 - YouTube](https://www.youtube.com/shorts/6MxR4o7DAZE)
+* [FRC 2024 Robot Reveal - Team 3255 SuperNURDs](https://www.youtube.com/watch?v=5iuiX1t4GkY)
