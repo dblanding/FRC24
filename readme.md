@@ -1,6 +1,17 @@
-# 2024 FRC Design information found online
+# Stuff related to 12Volt-Bolt FRC team 1557
+## [OnShape Training](OnShape_Notes.md)
 
-## [Kitbot](https://www.firstinspires.org/resource-library/frc/kitbot)
+### See One, Do One, Teach One
+[SODOTO (See One, Do One, Teach One)](https://www.techtarget.com/whatis/definition/SODOTO) is a methodology of teaching and learning skills and best practices through:
+1. See - Direct observation of a task
+2. Do - Hands-on practical experience performing the task and
+3. Teach - Teaching the task to another person.
+
+![See One, Do One, Teach One](imgs/sodoto.png)
+
+## 2024 FRC Design information found online
+
+#### [Kitbot](https://www.firstinspires.org/resource-library/frc/kitbot)
 * [Kitbot Assembly video (FIRST)](https://www.youtube.com/watch?v=ADcDsgZ8Jnc)
 * 2024 kitbot STEP files available on grabcad
 ![Kitbot V1](imgs/kitbot-v1.png)
@@ -10,7 +21,7 @@
     * Have a look at #3 UMN Robotics RI3D Under the frame intake. It looks like they have used some larger tires to get them a bit more clearance over the note. Also, their small intake roller looks to be contacting the note **above** the mid-line of the note. Still works like gangbusters.
 ![Under the frame intake](imgs/under-the-frame-intake.png)
 
-## FRC 2024 videos showing turret shooters
+#### FRC 2024 videos showing turret shooters
 * [The Pink Team FRC 233 - 2024 Reveal Video](https://www.youtube.com/watch?v=9Ea0du3LMJg)
 * [FRC 2024 Robot Shooter Turret Testing #FRC3255 - YouTube](https://www.youtube.com/shorts/y1pKOkQFz2k)
 * [Ri3D 2024 | turret prototype for Robots Done Quick (RDQ)](https://www.youtube.com/shorts/90EWERjuAJA)
