@@ -18,7 +18,7 @@ which include excellent self-paced training on these topics:
     ![certificate 3](imgs/Multi-Part_Part_Studios.png)
     ![certificate 4](imgs/Onshape_Assemblies.png)
     ![certificate 5](imgs/Managed_In-Context_Design.png)
-    ![certificate 6](imgs/Master_model.png)
+    ![certificate 6](imgs/Master_Model.png)
     
 ## Other Tutorials
 * Assemblies: [Introduction to Assemblies in Onshape](https://www.youtube.com/watch?v=2cXMjxNduSA)
