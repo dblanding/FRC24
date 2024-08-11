@@ -18,12 +18,14 @@ to keep track of your completed training:
         5. How to make Detailed Drawings
     * [Top-Down Design](https://learn.onshape.com/learn/learning-path/top-down-design)
 
+    ![certificate 0](imgs/Onshape_Fundamentals:CAD.png)
     ![certificate 1](imgs/Navigating_Onshape.png)
     ![certificate 2](imgs/Part_Design_Using_Part_Studios.png)
     ![certificate 3](imgs/Multi-Part_Part_Studios.png)
     ![certificate 4](imgs/Onshape_Assemblies.png)
     ![certificate 5](imgs/Managed_In-Context_Design.png)
-    ![certificate 6](imgs/Master_Model.png)
+    ![certificate 6](imgs/Detailed_Drawings.png)
+    ![certificate 7](imgs/Master_Model.png)
     
 ## Other Tutorials
 * Assemblies: [Introduction to Assemblies in Onshape](https://www.youtube.com/watch?v=2cXMjxNduSA)
