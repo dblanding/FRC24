@@ -35,8 +35,14 @@ to keep track of your completed training:
     * Onshape Fundamentals: [Data Management]()
         1. Document Management
         2. Importing & Exporting Data
+        3. Sharing and Collaboration
+        4. Document History and Versions
+        5. Branching and Merging
+        6. Linked Documents
 
     ![certificate 9](imgs/Document_Management.png)
+    ![certificate 10](imgs/Importing_&_Exporting_Data.png)
+    ![certificate 11](imgs/Sharing_&_Collaboration.png)
     
 ## Other Tutorials
 * Assemblies: [Introduction to Assemblies in Onshape](https://www.youtube.com/watch?v=2cXMjxNduSA)
