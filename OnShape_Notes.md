@@ -1,16 +1,16 @@
-# Learning [OnShape](https://cad.onshape.com/signin)
+# Learning [Onshape](https://cad.onshape.com/signin)
 * [Browser compatibility check](https://cad.onshape.com/check)
 
-## OnShape Training
+## Onshape Training
 1. If you're a beginner at CAD, start with this series of 5 tutorials by CADSessions: [Beginner Tutorial 1/5 - Onshape 3D CAD - Creating Sketches and Objects](https://www.youtube.com/watch?v=pMWnsHpDlQE)
 
-2. Once you have learned the basics, I reccomend OnShape's self-paced online tutorials (with Exercises) at [OnShape Learning Pathways](https://learn.onshape.com/)
+2. Once you have learned the basics, I reccomend Onshape's self-paced online tutorials (with Exercises) at [Onshape Learning Pathways](https://learn.onshape.com/)
 
 ![Learning Pathways](imgs/learning_pathways.png)
 
 * And they provide a [Dashboard](https://learn.onshape.com/learn/dashboard) 
 to keep track of your completed training:
-    * Onshape Fundamentals: CAD Concepts
+    * Onshape Fundamentals: [CAD Concepts](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad)
         1. Navigating Onshape
         2. Part Design Using Part Studios
         3. Multiple Part Design using Part Studios
@@ -32,7 +32,7 @@ to keep track of your completed training:
     ![certificate 7](imgs/Managed_In-Context_Design.png)
     ![certificate 8](imgs/Master_Model.png)
 
-    * Onshape Fundamentals: [Data Management]()
+    * Onshape Fundamentals: [Data Management](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-data-management)
         1. Document Management
         2. Importing & Exporting Data
         3. Sharing and Collaboration
@@ -40,11 +40,13 @@ to keep track of your completed training:
         5. Branching and Merging
         6. Linked Documents
 
-    ![certificate 9](imgs/Document_Management.png)
-    ![certificate 10](imgs/Importing_&_Exporting_Data.png)
-    ![certificate 11](imgs/Sharing_&_Collaboration.png)
-    ![certificate 12](imgs/Document_History_&_Versions.png)
-    
+    ![certificate 9](imgs/Onshape_Fundamentals:Data_Management.png)
+    ![certificate 10](imgs/Document_Management.png)
+    ![certificate 11](imgs/Importing_&_Exporting_Data.png)
+    ![certificate 12](imgs/Sharing_&_Collaboration.png)
+    ![certificate 13](imgs/Document_History_&_Versions.png)
+    ![certificate 14](imgs/Branching_&_Merging.png)
+    ![certificate 15](imgs/Linked_Documents.png)
     
 ## Other Tutorial Links
 * Assemblies: [Introduction to Assemblies in Onshape](https://www.youtube.com/watch?v=2cXMjxNduSA)
