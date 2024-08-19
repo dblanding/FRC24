@@ -48,10 +48,13 @@ to keep track of your completed training:
     ![certificate 14](imgs/Branching_&_Merging.png)
     ![certificate 15](imgs/Linked_Documents.png)
     
-## Other Tutorial Links
+## Links to related resources:
 * Assemblies: [Introduction to Assemblies in Onshape](https://www.youtube.com/watch?v=2cXMjxNduSA)
 * FRC Blog: [Learn CAD w/ new Onshape Resources](https://www.firstinspires.org/robotics/frc/blog/2022-learn-cad-with-new-onshape-resources)
     * [CAD For Robotics Competitions](https://learn.onshape.com/learn/learning-path/cad-for-robotics)
     * [MKCAD App](https://appstore.onshape.com/apps/Manufacturers%20Models/2ZT7X5D646R3LM3ZND7LGBTYRVM4SVH6CDDGM6I=/description)
     * [onshape4frc](https://onshape4frc.com/)
+        * Robot CAD Collection
+            * [Spectrum CAD Collection](https://docs.google.com/spreadsheets/d/1acT6PpdR5l3zVhPqrehgamPsnUbk6yg-2JC5FcwIbb4/edit?gid=0#gid=0)
+            * [The Compass Alliance CAD Collection](https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:TCA%20FRC) (Or search "TCA FRC" from Onshape Public Documents)
 
