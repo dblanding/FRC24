@@ -58,4 +58,5 @@ to keep track of your completed training:
         * Robot CAD Collection
             * [Spectrum CAD Collection](https://docs.google.com/spreadsheets/d/1acT6PpdR5l3zVhPqrehgamPsnUbk6yg-2JC5FcwIbb4/edit?gid=0#gid=0)
             * [The Compass Alliance CAD Collection](https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:TCA%20FRC) (Or search "TCA FRC" from Onshape Public Documents)
+* Amazing Onshape tutorial on Gears [Introduction to Gears](https://learn.onshape.com/learn/article/machine-component-design)
 
