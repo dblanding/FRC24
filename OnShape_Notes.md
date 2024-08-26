@@ -47,7 +47,8 @@ to keep track of your completed training:
     ![certificate 13](imgs/Document_History_&_Versions.png)
     ![certificate 14](imgs/Branching_&_Merging.png)
     ![certificate 15](imgs/Linked_Documents.png)
-    
+    ![certificate 16](imgs/Direct_Editing.png)
+
 ## Links to related resources:
 * Assemblies: [Introduction to Assemblies in Onshape](https://www.youtube.com/watch?v=2cXMjxNduSA)
 * FRC Blog: [Learn CAD w/ new Onshape Resources](https://www.firstinspires.org/robotics/frc/blog/2022-learn-cad-with-new-onshape-resources)

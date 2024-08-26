@@ -1,6 +1,9 @@
 # Stuff related to 12Volt-Bolt FRC team 1557
+--------------------------------------------
+## [How to Create a High-Level Project Plan](project_plan.md)
+--------------------------------------------
 ## [OnShape Training](OnShape_Notes.md)
-
+--------------------------------------------
 ### See One, Do One, Teach One
 [SODOTO (See One, Do One, Teach One)](https://www.techtarget.com/whatis/definition/SODOTO) is a methodology of teaching and learning skills and best practices through:
 1. See - Direct observation of a task
@@ -9,6 +12,7 @@
 
 ![See One, Do One, Teach One](imgs/sodoto.png)
 
+--------------------------------------------
 ## 2024 FRC Design information found online
 
 #### [Kitbot](https://www.firstinspires.org/resource-library/frc/kitbot)
