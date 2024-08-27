@@ -14,7 +14,7 @@
 
 ## Estimate Costs & Budget
 
-* Can we afford it?
+* Can we afford to do our plan?
 
 ## Develop a Schedule
 
@@ -22,11 +22,16 @@
 2. Show each phase on a Time Line (calendar)
 3. Track progress
 
-## Other things to be aware of:
+## Other important functions:
 
 * Work out the best way to communicate
     * with each other
     * with the mentors / coaches
+* Team Image / Luster
+    * Website
+    * Banners & Buttons
+    * Community relations
 * Tool crib management
     * How best to keep it organized?
-* Other?
+* Competition strategy
+

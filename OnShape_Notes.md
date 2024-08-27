@@ -4,7 +4,7 @@
 ## Onshape Training
 1. If you're a beginner at CAD, start with this series of 5 tutorials by CADSessions: [Beginner Tutorial 1/5 - Onshape 3D CAD - Creating Sketches and Objects](https://www.youtube.com/watch?v=pMWnsHpDlQE)
 
-2. Once you have learned the basics, I reccomend Onshape's self-paced online tutorials (with Exercises) at [Onshape Learning Pathways](https://learn.onshape.com/)
+2. Once you have learned the basics, I recommend Onshape's self-paced online tutorials (with Exercises) at [Onshape Learning Pathways](https://learn.onshape.com/)
 
 ![Learning Pathways](imgs/learning_pathways.png)
 
@@ -59,4 +59,4 @@ to keep track of your completed training:
             * [Spectrum CAD Collection](https://docs.google.com/spreadsheets/d/1acT6PpdR5l3zVhPqrehgamPsnUbk6yg-2JC5FcwIbb4/edit?gid=0#gid=0)
             * [The Compass Alliance CAD Collection](https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:TCA%20FRC) (Or search "TCA FRC" from Onshape Public Documents)
 * Amazing Onshape tutorial on Gears [Introduction to Gears](https://learn.onshape.com/learn/article/machine-component-design)
-
+* [University Teams' Guide to Organization and Onshape Collaboration](https://learn.onshape.com/courses/university-teams-guide-to-organization-and-onshape-collaboration)
