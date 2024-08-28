@@ -54,9 +54,32 @@ to keep track of your completed training:
 * FRC Blog: [Learn CAD w/ new Onshape Resources](https://www.firstinspires.org/robotics/frc/blog/2022-learn-cad-with-new-onshape-resources)
     * [CAD For Robotics Competitions](https://learn.onshape.com/learn/learning-path/cad-for-robotics)
     * [MKCAD App](https://appstore.onshape.com/apps/Manufacturers%20Models/2ZT7X5D646R3LM3ZND7LGBTYRVM4SVH6CDDGM6I=/description)
-    * [onshape4frc](https://onshape4frc.com/)
-        * Robot CAD Collection
-            * [Spectrum CAD Collection](https://docs.google.com/spreadsheets/d/1acT6PpdR5l3zVhPqrehgamPsnUbk6yg-2JC5FcwIbb4/edit?gid=0#gid=0)
-            * [The Compass Alliance CAD Collection](https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:TCA%20FRC) (Or search "TCA FRC" from Onshape Public Documents)
+* FRC Team 6328 created a blog at [onshape4frc](https://onshape4frc.com/) with some valuable links
+    * How to [get started](https://onshape4frc.com/getting-started) as a CAD beginner
+    * [Modeling a WCD in Onshape](https://onshape4frc.com/external-resources)
+    * Robot CAD Collection
+        * [Spectrum CAD Collection](https://docs.google.com/spreadsheets/d/1acT6PpdR5l3zVhPqrehgamPsnUbk6yg-2JC5FcwIbb4/edit?gid=0#gid=0)
+        * [The Compass Alliance CAD Collection](https://cad.onshape.com/documents?nodeId=3&resourceType=filter&q=_all:TCA%20FRC) (Or search "TCA FRC" from Onshape Public Documents)
 * Amazing Onshape tutorial on Gears [Introduction to Gears](https://learn.onshape.com/learn/article/machine-component-design)
 * [University Teams' Guide to Organization and Onshape Collaboration](https://learn.onshape.com/courses/university-teams-guide-to-organization-and-onshape-collaboration)
+* Watched video [How to Set Your FIRST Season Up for Success with Onshape](https://learn.onshape.com/learn/video/how-to-set-your-first-season-up-for-success-with-onshape)
+    * Makes a good case for explaining why all the various teams need to have access to CAD model:
+        * Design (obviously)
+        * Fabrication & build
+        * Electrical
+        * Programming
+        * Marketing (Can pull out phone and show design)
+    * Explains *Single Document* vs *Multi-Document* organization
+    * Demos how to install and use MKCAD library
+    * Suggests the exercise to use the MKCAD libray to build last year's robot.
+    * Introduces featurescript to generate custom features
+        * Shows a *chain* example using `Julia's Featurescripts`
+        * Demonstrates generating a hex shaft
+    * Shows collaboration
+        * Follow mode
+        * Comments
+        * Versions & history
+    * Covers available learning resources
+        * [Intro to CAD - Unit 1 - Jumping Into Onshape](https://learn.onshape.com/courses/unit-1-jumping-into-onshape)
+        * Introduces [Onshape4FRC Blog](https://onshape4frc.com)
+
