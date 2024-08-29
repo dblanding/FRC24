@@ -82,4 +82,8 @@ to keep track of your completed training:
     * Covers available learning resources
         * [Intro to CAD - Unit 1 - Jumping Into Onshape](https://learn.onshape.com/courses/unit-1-jumping-into-onshape)
         * Introduces [Onshape4FRC Blog](https://onshape4frc.com)
+* Chief Delphi post: [Announcing KrayonCAD: A Robot Planning Library for Onshape](https://www.chiefdelphi.com/t/announcing-krayoncad-a-robot-planning-library-for-onshape/444484)
+    * DO NOT MAKE A COPY
+
+* Search public docs for: `Julia's Featurescripts`
 
