@@ -86,4 +86,7 @@ to keep track of your completed training:
     * DO NOT MAKE A COPY
 
 * Search public docs for: `Julia's Featurescripts`
+* Onshape practice
+    * [CAD Challenges App](https://forum.onshape.com/discussion/20386/cad-challenges-app)
+    * [CAD Video Tutor](https://sites.google.com/jgranger.online/onshape-learning-projects)
 
