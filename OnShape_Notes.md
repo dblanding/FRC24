@@ -49,6 +49,13 @@ to keep track of your completed training:
     ![certificate 15](imgs/Linked_Documents.png)
     ![certificate 16](imgs/Direct_Editing.png)
 
+## Mini-tutorial videos on specific tools
+* [Lines & Rectangles](https://learn.onshape.com/learn/video/lines-and-rectangles)
+* [Slots](https://learn.onshape.com/courses/slot)
+* [Trim & Extend](https://learn.onshape.com/courses/sketch-trim-and-extend)
+* [Construction - Geometry](https://learn.onshape.com/courses/construction-geometry)
+* [Mate Connectors](https://learn.onshape.com/courses/all-the-ways-to-use-mate-connectors)
+
 ## Links to related resources:
 * Assemblies: [Introduction to Assemblies in Onshape](https://www.youtube.com/watch?v=2cXMjxNduSA)
 * FRC Blog: [Learn CAD w/ new Onshape Resources](https://www.firstinspires.org/robotics/frc/blog/2022-learn-cad-with-new-onshape-resources)
@@ -89,4 +96,5 @@ to keep track of your completed training:
 * Onshape practice
     * [CAD Challenges App](https://forum.onshape.com/discussion/20386/cad-challenges-app)
     * [CAD Video Tutor](https://sites.google.com/jgranger.online/onshape-learning-projects)
+* Here is an Onshape tutorial that explaians the details of document organization schemes using an [FRC robot that picks up and shoots basketballs](https://learn.onshape.com/learn/article/cad-for-robotics-collaboration) as an example.
 
