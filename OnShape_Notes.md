@@ -55,6 +55,7 @@ to keep track of your completed training:
 * [Trim & Extend](https://learn.onshape.com/courses/sketch-trim-and-extend)
 * [Construction - Geometry](https://learn.onshape.com/courses/construction-geometry)
 * [Mate Connectors](https://learn.onshape.com/courses/all-the-ways-to-use-mate-connectors)
+* [Mating Basics](https://learn.onshape.com/courses/mating-basics)
 
 ## Links to related resources:
 * Assemblies: [Introduction to Assemblies in Onshape](https://www.youtube.com/watch?v=2cXMjxNduSA)
