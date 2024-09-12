@@ -97,5 +97,5 @@ to keep track of your completed training:
 * Onshape practice
     * [CAD Challenges App](https://forum.onshape.com/discussion/20386/cad-challenges-app)
     * [CAD Video Tutor](https://sites.google.com/jgranger.online/onshape-learning-projects)
-* Here is an Onshape tutorial that explaians the details of document organization schemes using an [FRC robot that picks up and shoots basketballs](https://learn.onshape.com/learn/article/cad-for-robotics-collaboration) as an example.
+* Here is an Onshape tutorial that explains the details of document organization using an [FRC robot that picks up and shoots basketballs](https://learn.onshape.com/learn/article/cad-for-robotics-collaboration) as an example.
 

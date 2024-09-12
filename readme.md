@@ -1,5 +1,7 @@
 # Stuff related to 12Volt-Bolt FRC team 1557
 --------------------------------------------
+## Competetive Design Analysis of [Team 587's FRC-2024 Robot](cda/design_analysis.md)
+--------------------------------------------
 ## [How to Create a High-Level Project Plan](project_plan.md)
 --------------------------------------------
 ## [OnShape Training](OnShape_Notes.md)
