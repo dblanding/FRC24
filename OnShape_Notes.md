@@ -99,3 +99,7 @@ to keep track of your completed training:
     * [CAD Video Tutor](https://sites.google.com/jgranger.online/onshape-learning-projects)
 * Here is an Onshape tutorial that explains the details of document organization using an [FRC robot that picks up and shoots basketballs](https://learn.onshape.com/learn/article/cad-for-robotics-collaboration) as an example.
 
+## *Best Practices* for organizing **Large Assemblies**
+* [Defining High Performing Assemblies](https://learn.onshape.com/learn/article/defining-high-performing-assemblies)
+* Chief Delphi post: [Onshape Best Practices](https://www.chiefdelphi.com/t/onshape-best-practices/357052)
+* 
