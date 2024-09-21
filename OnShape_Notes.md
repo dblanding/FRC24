@@ -98,6 +98,11 @@ to keep track of your completed training:
     * [CAD Challenges App](https://forum.onshape.com/discussion/20386/cad-challenges-app)
     * [CAD Video Tutor](https://sites.google.com/jgranger.online/onshape-learning-projects)
 * Here is an Onshape tutorial that explains the details of document organization using an [FRC robot that picks up and shoots basketballs](https://learn.onshape.com/learn/article/cad-for-robotics-collaboration) as an example.
+    * [Collaboration - Unit Guide](https://docs.google.com/document/d/17ZmpC_wBqwrJXZRu_AFv3_Y7sIHQ5jdQ6o0AQhy94PI/edit#heading=h.ucbt3bgntn1h)
+        * [How to Onboard Your FIRST Robotics Team Using Onshape](https://www.onshape.com/en/blog/how-to-onboard-your-first-robotics-team)
+            * [Product Structure Organization Tips - Best practices for organizing CAD data within Onshape](https://learn.onshape.com/learn/article/product-structure-organization-tips)
+        * [The FIRST Robotics Experience: Building Robots & Confidence from STEM Robotics Competitions](https://www.onshape.com/en/blog/the-first-robotics-experience)
+        * See if you can build a WC chassis from scratch. Follow this video: [Working with the FRC Kit of Parts | PTC Academic](https://www.youtube.com/watch?v=Zd2brp2-bUg&list=PLOPIJtr7Kd_4fWM4k3pIYLE6qnFJXDeSE&index=2)
 
 ## *Best Practices* for organizing **Large Assemblies**
 * [Defining High Performing Assemblies](https://learn.onshape.com/learn/article/defining-high-performing-assemblies)

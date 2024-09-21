@@ -4,7 +4,7 @@
     * But learning is like a *rope*. You can't push it. It only works when it is pulled. **Ask questions if you get stuck or need  help.**
     * As a retired machine design professional, I am thrilled to have the opportunity to share my design experience with the students on our FRC team. But to get the maximum benefit, the students need to meet me half way. **Ask questions if there is something you don't understand.**
 
-> A common *Misconseption* is that Learning to use CAD is equivalent to becoming a good machine designer. This is like saying that learning to wield a paint brush makes you a good artist.
+> A common *Misconception* is that Learning to use CAD is equivalent to becoming a good machine designer. This is like saying that learning to wield a paint brush makes you a good artist.
 
 * But in truth, while learning to use CAD is an *important skill*, it is only the *first step* of learning to become a robot designer.
 
