@@ -102,7 +102,15 @@ to keep track of your completed training:
         * [How to Onboard Your FIRST Robotics Team Using Onshape](https://www.onshape.com/en/blog/how-to-onboard-your-first-robotics-team)
             * [Product Structure Organization Tips - Best practices for organizing CAD data within Onshape](https://learn.onshape.com/learn/article/product-structure-organization-tips)
         * [The FIRST Robotics Experience: Building Robots & Confidence from STEM Robotics Competitions](https://www.onshape.com/en/blog/the-first-robotics-experience)
-        * See if you can build a WC chassis from scratch. Follow this video: [Working with the FRC Kit of Parts | PTC Academic](https://www.youtube.com/watch?v=Zd2brp2-bUg&list=PLOPIJtr7Kd_4fWM4k3pIYLE6qnFJXDeSE&index=2)
+        * Tried building the WCD chassis from scratch as shown in this video: [Working with the FRC Kit of Parts | PTC Academic](https://www.youtube.com/watch?v=Zd2brp2-bUg&list=PLOPIJtr7Kd_4fWM4k3pIYLE6qnFJXDeSE&index=2)
+            * Learned some things along the way
+                * Used featurescripts
+                    * Extrude Individual
+                    * Tube Converter
+                * Inserting from MKCad (Parts vs. Assys)
+                * Needed to "Dissolve" replicates (bearing & T-gusset)
+
+![WCD_chassis_from_scratch](imgs/WCD_chassis_from_scratch.png)
 
 ## *Best Practices* for organizing **Large Assemblies**
 * [Defining High Performing Assemblies](https://learn.onshape.com/learn/article/defining-high-performing-assemblies)
