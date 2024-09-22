@@ -112,7 +112,10 @@ to keep track of your completed training:
 
 ![WCD_chassis_from_scratch](imgs/WCD_chassis_from_scratch.png)
 
+* Chief Delphi post: [Introducing FRCDesign.org - High-quality FRC design knowledge, accessible to all](https://www.chiefdelphi.com/t/introducing-frcdesign-org-high-quality-frc-design-knowledge-accessible-to-all/470552)
+    * [FRCDesign.org](https://www.frcdesign.org/) is a comprehensive learning guide and technical reference for FRC design using Onshape.
+
 ## *Best Practices* for organizing **Large Assemblies**
 * [Defining High Performing Assemblies](https://learn.onshape.com/learn/article/defining-high-performing-assemblies)
 * Chief Delphi post: [Onshape Best Practices](https://www.chiefdelphi.com/t/onshape-best-practices/357052)
-* 
+
