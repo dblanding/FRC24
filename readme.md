@@ -25,7 +25,18 @@
 * But on the downside:
     * Onshape documents are more complex than in other CAD systems. So there is more that must be learned in order to properly navigate and manage them.
     * But, IMHO, the benefit of bringing CAD instantly within reach of anyone with a web browser makes this an acceptable tradeoff.
-        
+
+--------------------------------------------
+## This [Chief Delphi post](https://www.chiefdelphi.com/t/team-1114-simbotics-2024-simbot-skyfall-1-0-2-0-cad-release/475819) announces the public release of Team 1114 Simbot Skyfall FRC-2024 Robot.
+* Links to 2 versions of their Onshape CAD model
+* The Version 2 design is particularly elegant, showing a simplified configuration capable of completing all the 2024 FRC challenges:
+    * Intake NOTES from the floor,
+    * Delivery of NOTES to the AMP,
+    * Shooting,
+    * Hanging from the chain.
+* The models have been made available without copy permission, but with export permission.
+* It would be very educational for our team to explore and study their V2 CAD design, which I have exported and then re-imported into [MySimbot](https://cad.onshape.com/documents/0a68d33795905a6a1745ab0a/w/9181547f54e318f4ab4a0e38/e/a1e309b39d15b719c1a3881f?renderMode=0&uiState=6762a58966364b5d14c8c68d).
+
 --------------------------------------------
 ## Competetive Design Analysis of [Team 587's FRC-2024 Robot](cda/design_analysis.md)
 --------------------------------------------
